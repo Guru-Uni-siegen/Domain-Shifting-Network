@@ -386,7 +386,7 @@ tables==3.6.1
 tblib==1.6.0
 tenacity==6.0.0
 tensorboard==1.15.0
-tensorflow==1.15.0
+tensorflow==1.15.2
 tensorflow-cpu==2.1.0rc1
 tensorflow-estimator==1.15.1
 tensorflow-probability==0.8.0
