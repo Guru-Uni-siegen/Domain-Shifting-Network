@@ -4,7 +4,7 @@ In this repository we provide python code to reproduce results from the paper:
 
 > **A Simple Domain Shifting Network for Generating Low Quality Images**
 
-> ICPR 2020
+> ICPR 2020 (http://arxiv.org/abs/2006.16621)
 
 > Guruprasad Hegde, Avinash Nittur Ramesh, Kanchana Vaishnavi Gandikota, Roman Obermaisser, Michael Moeller
 
