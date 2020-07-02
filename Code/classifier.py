@@ -29,7 +29,7 @@ file_separator = "\\"
 split_train_path = file_separator.join(['..','Dataset','original_imagenet_images','train'])
 valid_path =  file_separator.join(['..','Dataset','original_imagenet_images','val'])
 batch_size = 32
-epochs = 1
+epochs = 100
 lr = 1e-4
 
 class Network(nn.Module):
