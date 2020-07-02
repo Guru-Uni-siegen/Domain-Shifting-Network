@@ -63,7 +63,7 @@ def run():
     
     lr=0.01
     optimise = torch.optim.Adam(convreg.parameters(),lr=lr)
-    n_epochs = 1
+    n_epochs = 100
     loss_value = 0.0
     
     for epoch in range(1,n_epochs+1): 
