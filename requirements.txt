@@ -1,7 +1,7 @@
 cozmo==1.4.10
 cozmoclad==3.4.0
 matplotlib==3.2.0rc2
-numpy==1.17.4+mkl
+numpy==1.22.0
 numpydoc==0.9.1
 opencv-contrib-python==4.2.0.32
 opencv-python==4.2.0.32
